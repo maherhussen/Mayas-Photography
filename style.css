@@ -626,16 +626,16 @@ align-self: flex-end;
         color: #000000;
       }
         nav ul li a {
-          color: #000000;
+          color: #fff;
         }
         .logo{
-          color: #000000;
+          color: #fff;
         }
      
       .home {
         max-width: 100%;
         height: 100vh;
-        background: url(./img/photo_٢٠٢٤-٠٣-٢٩_١٩-٥٤-٣٠.jpg)no-repeat;
+        background: url(./img/جديد.jpg)no-repeat;
         background-size: 100% 100vh;
     }
     .home-sci {
