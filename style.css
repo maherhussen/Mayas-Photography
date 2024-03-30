@@ -640,8 +640,9 @@ align-self: flex-end;
     }
     .home-sci {
       position: absolute;
-      bottom: -2%;
+      bottom: 1%;
       width: 170px;
+      margin: 20px 0 0px;
       display: flex;
       justify-content: space-between;
       }
