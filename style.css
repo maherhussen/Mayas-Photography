@@ -246,7 +246,7 @@ justify-content: space-between;
     z-index: 1;
     overflow: hidden;
     transition: .5s;
-}
+    }
 .home-sci a:hover{
 color: #081b29;
 }
@@ -638,6 +638,13 @@ align-self: flex-end;
         background: url(./img/photo_٢٠٢٤-٠٣-٢٩_١٩-٥٤-٣٠.jpg)no-repeat;
         background-size: 100% 100vh;
     }
+    .home-sci {
+      position: absolute;
+      bottom: -60px;
+      width: 170px;
+      display: flex;
+      justify-content: space-between;
+      }
     .home-content {
       max-width: 200px;
     }
