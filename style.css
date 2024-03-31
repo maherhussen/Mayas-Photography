@@ -644,7 +644,7 @@ align-self: flex-end;
       position: absolute;
       bottom: 0;
       width: 170px;
-      height: 10px;
+      height: 0;
       display: flex;
       justify-content: space-between;
       }
