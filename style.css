@@ -642,7 +642,7 @@ align-self: flex-end;
     }
     .home-sci {
       position: absolute;
-      bottom: 0;
+      bottom: 7%;
       width: 170px;
       height: 0;
       display: flex;
